@@ -1,0 +1,14 @@
+[
+  {
+    "id": "a2f686b471196955",
+    "key": "Admin",
+    "expiresAt": "2025-05-30",
+    "allowOffline": true
+  },
+  {
+    "id": "user",
+    "key": "true",
+    "expiresAt": "2025-06-15",
+    "allowOffline": true
+  }
+]
