@@ -16,5 +16,11 @@
     "key": "Trial",
     "expiresAt": "2026-01-07",
     "allowOffline": true
-  }
+  },
+  {
+    "id": "4fbda4a5b4c12429",
+    "key": "Kris",
+    "expiresAt": "2026-02-07",
+    "allowOffline": true
+  },
 ]
