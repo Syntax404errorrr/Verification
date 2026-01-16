@@ -16,5 +16,11 @@
     "key": "Santiago",
     "expiresAt": "2050-12-31",
     "allowOffline": true
+  },
+  {
+    "id": "bf3d8c3e43809f3a",  
+    "key": "Trial",
+    "expiresAt": "2026-01-17",
+    "allowOffline": true
   }
 ]
