@@ -46,5 +46,11 @@
     "key": "Key6",
     "expiresAt": "2026-02-20",
     "allowOffline": true
+  },
+  {
+    "id": "be39750e660aee00",  
+    "key": "Key7",
+    "expiresAt": "2026-02-20",
+    "allowOffline": true
   }
 ]
