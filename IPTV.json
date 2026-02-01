@@ -1,90 +1,83 @@
 [
   {
     "name": "Admin",
-    "id": "d4ebc2828a4bbe87",
+    "id": "21020d5e5b534065",
     "key": "Admin",
     "expiresAt": "2050-12-31",
     "allowOffline": true
   },
   {
-    "name": "Admin",
-    "id": "95781a8f83cc48d1",
-    "key": "Admin123",
-    "expiresAt": "2050-12-31",
-    "allowOffline": true
-  },
-  {
-    "name": "Santiago Mendoza"
+    "name": "Santiago Mendoza",
     "id": "fc8274512863b810",  
     "key": "Santiago",
     "expiresAt": "2050-12-31",
     "allowOffline": true
   },
   {
-    "name": "Tre Bz"
+    "name": "Tre Bz",
     "id": "a1d2fafeda1a36e9",  
     "key": "Key1",
     "expiresAt": "2026-02-17",
     "allowOffline": true
   },
   {
-    "name": "Ernestmight"
+    "name": "Ernestmight",
     "id": "f822cfe087118ab0",  
     "key": "Key3",
     "expiresAt": "2026-02-17",
     "allowOffline": true
   },
   {
-    "name": "Laka N Dula"
+    "name": "Laka N Dula",
     "id": "3ce28630180d822a",  
     "key": "Key4",
     "expiresAt": "2026-02-19",
     "allowOffline": true
   },
   {
-    "name": "Robert Noleal"
+    "name": "Robert Noleal",
     "id": "cfaad4b6030b8049",  
     "key": "Key5",
     "expiresAt": "2026-02-19",
     "allowOffline": true
   },
   {
-    "name": "Mokalid Sumagka"
+    "name": "Mokalid Sumagka",
     "id": "6a768e3b782ebac9",  
     "key": "Key6",
     "expiresAt": "2026-02-20",
     "allowOffline": true
   },
   {
-    "name": "Mokalid Sumagka"
+    "name": "Mokalid Sumagka",
     "id": "be39750e660aee00",  
     "key": "Key7",
     "expiresAt": "2026-02-20",
     "allowOffline": true
   },
   {
-    "name": "Condino Mc"
+    "name": "Condino Mc",
     "id": "fcc177155e579e9e",  
     "key": "Key8",
     "expiresAt": "2026-02-26",
     "allowOffline": true
   },
   {
-    "name": "Lawren"
+    "name": "Lawren",
     "id": "67454c3e79fcbc2f",  
     "key": "Key9",
     "expiresAt": "2026-02-26",
     "allowOffline": true
   },
   {
-    "name": "Steven Ray Rosalita"
+    "name": "Steven Ray Rosalita",
     "id": "7f2c22105a1b26de",  
     "key": "Key10",
     "expiresAt": "2026-02-29",
     "allowOffline": true
   },
   {
-    "name": "Rob Alejandro"
+    "name": "Rob Alejandro",
     "id": "63c7c6b045c44fd2",  
     "key": "Key11",
     "expiresAt": "2026-02-29",
