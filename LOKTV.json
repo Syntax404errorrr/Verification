@@ -42,6 +42,13 @@
     "allowOffline": true
   },
   {
+    "name": "Romel",
+    "id": "72eba6533a277e27",
+    "key": "Romel123",
+    "expiresAt": "2026-03-28",
+    "allowOffline": true
+  },
+  {
     "id": "3baebc6ed59a5d78",
     "key": "Trial",
     "expiresAt": "2026-02-27",
