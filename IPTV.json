@@ -35,41 +35,6 @@
     "allowOffline": true
   },
   {
-    "name": "Laka N Dula",
-    "id": "3ce28630180d822a",  
-    "key": "Key3",
-    "expiresAt": "2026-02-19",
-    "allowOffline": true
-  },
-  {
-    "name": "Robert Noleal",
-    "id": "",  
-    "key": "Key4",
-    "expiresAt": "2026-02-19",
-    "allowOffline": true
-  },
-  {
-    "name": "Mokalid Sumagka",
-    "id": "6a768e3b782ebac9",  
-    "key": "Key6",
-    "expiresAt": "2026-02-20",
-    "allowOffline": true
-  },
-  {
-    "name": "Mokalid Sumagka",
-    "id": "be39750e660aee00",  
-    "key": "Key7",
-    "expiresAt": "2026-02-20",
-    "allowOffline": true
-  },
-  {
-    "name": "Condino Mc",
-    "id": "fcc177155e579e9e",  
-    "key": "Key8",
-    "expiresAt": "2026-02-26",
-    "allowOffline": true
-  },
-  {
     "name": "Lawren",
     "id": "67454c3e79fcbc2f",  
     "key": "Key9",
@@ -80,13 +45,6 @@
     "name": "Steven Ray Rosalita",
     "id": "7f2c22105a1b26de",  
     "key": "Key10",
-    "expiresAt": "2026-02-29",
-    "allowOffline": true
-  },
-  {
-    "name": "Rob Alejandro",
-    "id": "63c7c6b045c44fd2",  
-    "key": "Key11",
     "expiresAt": "2026-02-29",
     "allowOffline": true
   },
