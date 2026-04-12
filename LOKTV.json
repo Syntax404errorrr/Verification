@@ -73,7 +73,7 @@
     "name": "Michael John Pascua",
     "id": "8073865ef079c9ee",
     "key": "John123",
-    "expireAt": "2050-12-31",
+    "expiresAt": "2050-12-31",
     "allowOffline": true
   }
 ]
