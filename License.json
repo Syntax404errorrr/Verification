@@ -1,13 +1,13 @@
 [
   {
-    "id": "f951cba3-bcb8-4827-8691-69d0f3182e79",
+    "Developer": "Nexus Bloodstrike",
     "key": "NEXUSBLOODSTRIKE",
-    "expiresAt": "2050-12-31",
+    "expiresAt": "2025-01-01",
     "allowOffline": true
   },
   {
-    "id": "ali456",
-    "key": "key2",
+    "Developer": "Nexus Bloodstrike",
+    "key": "Nexus",
     "expiresAt": "2025-06-15",
     "allowOffline": false
   }
