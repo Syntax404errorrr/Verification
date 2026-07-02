@@ -3,7 +3,7 @@
     "BS": {
       "logo": "https://drive.google.com/uc?export=download&id=1pabG4FuChSpMZplJj1tq4zca8-mg2SI6",
       "name": "BloodStrike",
-      "packageName": "com.netease.newspike",
+      "package": "com.netease.newspike",
       "versions": {
         "NXS": {
           "active": true,
@@ -20,7 +20,7 @@
     "MLBB": {
       "logo": "https://drive.google.com/uc?export=download&id=1G0w9K1MBziG9tQNv2RbZsOhYwH13Dp5r",
       "name": "Mobile Legends",
-      "packageName": "com.mobile.legends",
+      "package": "com.mobile.legends",
       "versions": {
         "NXS MLBB": {
           "active": true,
