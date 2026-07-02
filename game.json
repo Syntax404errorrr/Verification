@@ -3,16 +3,16 @@
     "BS": {
       "logo": "https://drive.google.com/uc?export=download&id=1pabG4FuChSpMZplJj1tq4zca8-mg2SI6",
       "name": "BloodStrike",
-      "package": "com.netease.newspike",
+      "packageName": "com.netease.newspike",
       "versions": {
         "NXS": {
           "active": true,
           "created_at": "2026-07-01",
           "display_name": "NEXUS BLOODSTRIKE",
-          "lib_url": "https://drive.google.com/uc?export=download&id=1z6Ek2yAGZc-bhi2Pv93Mm9x9NXyI_dbV",
+          "lib_url": "https://drive.google.com/uc?export=download&id=1_KQuihFHyiFsNaqtk-WFsnDIM2dZT8L3",
           "logo_url": "https://drive.google.com/uc?export=download&id=1otyPn3ViUtBWwj7kCo1mQFNFxRPXEMku",
           "maintenance": false,
-          "maintenance_changed": "2026-07-01 00:00:00",
+          "maintenance_changed": "2026-07-07 00:00:00",
           "target_lib": "libGame.so"
         }
       }
@@ -20,7 +20,7 @@
     "MLBB": {
       "logo": "https://drive.google.com/uc?export=download&id=1G0w9K1MBziG9tQNv2RbZsOhYwH13Dp5r",
       "name": "Mobile Legends",
-      "package": "com.mobile.legends",
+      "packageName": "com.mobile.legends",
       "versions": {
         "NXS MLBB": {
           "active": true,
